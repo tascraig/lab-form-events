@@ -2,6 +2,9 @@
 
 Build one of the most common applications on the web, a simple todo application, with HTML, CSS, and JavaScript.
 
+![added at end of list](examples/example.gif)
+
+
 ## Lab Setup
 
 - Fork and clone this repository.
