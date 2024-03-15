@@ -13,7 +13,7 @@ Build one of the most common applications on the web, a simple todo application,
 
 ## Instructions
 
-You have only been provided with the HTML. You must create the CSS yourself using SASS/BEM. Here are the specs that should be in your project:
+You have only been provided with the HTML. You must create the CSS yourself using SASS and BEM. Here are the specs that should be in your project:
 
 - A todo item should be added at the end of the list.
 - Each item should be deletable.
